@@ -21,3 +21,7 @@
 # component
 1-class based component
 2-functional component
+
+
+# key
+-Not using key(not acceptable) <<<<index(key) <<<<< uniqueid

@@ -25,3 +25,13 @@
 
 # key
 -Not using key(not acceptable) <<<<index(key) <<<<< uniqueid
+
+#   Default export/Import
+
+-export default component
+-import component from path
+
+# Named export/Import
+
+-export const component
+-import {component} from path
